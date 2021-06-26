@@ -14,8 +14,7 @@ body {
   font-family: 'Poppins', sans-serif;
   display: flex;
   justify-content: center;
-  background: url(../images/bg.jpg) center no-repeat;
-  background-size: cover;
+  background-color: rgb(168, 224, 206);
   height: 100vh;
 }
 
